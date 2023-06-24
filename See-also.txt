@@ -1,0 +1,48 @@
+=-= =-= =-= =-= =-= =-= =-= =-=       =-= =-= =-= =-= =-= =-= =-=       =-= =-= =-= =-= =-= =-= =-= 
+HELPFUL LINKS:
+
+Hatchetflash's GitHub:
+https://github.com/PixerPinecone/Hatchetflash/
+
+Official Hatchetflash development discord:
+https://discord.gg/bnnnz2QVAM
+(I commonly work on the game's development and related there, if you're interested, feel free to join.)
+
+Hatchetflash's development GDrive folder:
+https://drive.google.com/drive/folders/14BswHiYOFV0MTmxmBOVW_orF0SkzJLAj?usp=share_link
+(The folder contains insider dev info for the project, including our to-do list, game ideas, lore & worldbuilding, etc etc.)
+[Note that the folder has restricted access; please contact Pixer if you'd like access.]
+
+(Hatchetflash may be on my itch.io in the future, if so, here's my itch.io:)
+https://pixer-pinecone.itch.io/
+
+=-= =-= =-= =-= =-= =-= =-= =-=       =-= =-= =-= =-= =-= =-= =-=       =-= =-= =-= =-= =-= =-= =-= 
+
+
+Note that at any point, this "See-also" text may be out-of-sync with the official gdoc version (which can be found here:)
+https://docs.google.com/document/d/1mLPusB7MNbXRBAH9oUUa8hkMpNgSxWFHCYIRtaPZ9FI/edit?usp=sharing
+
+
+=-= =-= =-= =-= =-= =-= =-= =-=       =-= =-= =-= =-= =-= =-= =-=       =-= =-= =-= =-= =-= =-= =-= 
+DEV. CONTACT/BUSINESS EMAILS:
+
+Pixer Pinecone ("Pixer") - pixerpinecone@gmail.com
+Jcodefox ("Fox") - jcodefox@gmail.com
+Stevemc32 ("Steve") - 18pucercowboy@gmail.com
+("Redstone") - jackson.jackson.network1000@gmail.com
+
+=-= =-= =-= =-= =-= =-= =-= =-=       =-= =-= =-= =-= =-= =-= =-=       =-= =-= =-= =-= =-= =-= =-= 
+
+// ( Unrelatedly, here's some fun pastable comment-text art! )
+
+// [Of Jcodefox]
+//     /|/|      |\|\       /|/|      |\|\       |\|\      |\|\      /|/|        |\|\     |\_/|
+//    (  ^^>    <^^  )     (  ''_>  <_''  )     (  ;;_>  <_;;   )    ( , '_>  <_' , )      o o 
+//    /   |      |   \     /   | /  \ |   \     /  (|      |)  \    /  /|        |\  \    /_^_\
+
+// [Of Pixer Pinecone]
+//    \///¯>    <¯\\\/     \//0^0    0^0\\/     \//0^0    0^0\\/     \//0^0    0^0\\/    \/)^()\
+//    /( 0^>    <^0 )\     /( o >    < o )\     /(^O >    < O^)\     /( . >    < . )\    /  v  )
+//    _/  ¯_    _¯  \_     _/  ¯_    _¯  \_     _/  ^_    _^  \_     _/  ¯_    _¯  \_     _ ¯ _ 
+
+=-= =-= =-= =-= =-= =-= =-=       =-= =-= =-= =-= =-= =-= =-=       =-= =-= =-= =-= =-= =-= =-= 
